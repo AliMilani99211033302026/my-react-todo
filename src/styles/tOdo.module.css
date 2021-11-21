@@ -1,0 +1,20 @@
+.td{
+    background-color:royalblue;
+    width: 25rem;
+    padding: 1rem;
+    color: white;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.td button{
+    border: none;
+    background-color: paleturquoise;
+    padding:.3rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.btnWrapper{
+    display: flex;
+    gap: 1rem;
+}

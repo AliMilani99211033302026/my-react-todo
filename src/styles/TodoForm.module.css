@@ -1,0 +1,9 @@
+.todoForm{
+    background-color: coral;
+    width: 0 auto;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
